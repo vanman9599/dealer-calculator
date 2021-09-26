@@ -1,0 +1,12 @@
+.labels{
+  font-weight: bold;
+  color: 'blue';
+}
+
+.smallInput {
+  size: '10';
+}
+
+.App{
+  padding: 20px;
+}
